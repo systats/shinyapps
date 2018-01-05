@@ -1,11 +1,6 @@
 # packages 
 pacman::p_load(shiny, dplyr, ggplot2)
 
-#https://rpubs.com/jasdumas/pdx-shinylp# landing pages ShinyLP
-# https://dev.twitter.com/web/embedded-moments
-# https://github.com/systats/textstem
-
-
 # UI
 ui <- shinyUI(
   fluidPage(
